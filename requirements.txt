@@ -1,0 +1,13 @@
+streamlit
+ultralytics
+Pillow
+opencv-python
+numpy
+pandas
+matplotlib
+plotly
+requests
+gTTS
+python-dotenv
+tqdm
+prophet

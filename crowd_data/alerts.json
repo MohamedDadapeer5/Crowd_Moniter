@@ -1,0 +1,114 @@
+[
+  {
+    "event_name": "find",
+    "people_count": 17,
+    "timestamp": "2026-09-30 15:03:50",
+    "risk_level": "High",
+    "notifications_sent": [
+      {
+        "type": "SMS",
+        "recipient": "Event Security Team",
+        "message": "\u26a0 HIGH ALERT: Crowd density of 17 people detected at find. Immediate action required. Time: 2026-09-30 15:03:50"
+      },
+      {
+        "type": "Email",
+        "recipient": "security@eventmanagement.com",
+        "message": "High crowd density alert triggered at find. Current count: 17 people. Please dispatch additional security personnel."
+      },
+      {
+        "type": "SMS",
+        "recipient": "Local Police Department",
+        "message": "Crowd control assistance requested at find. Density: 17 people. Location monitoring active."
+      },
+      {
+        "type": "Push Notification",
+        "recipient": "Event Management App",
+        "message": "\ud83d\udea8 High crowd density at find. Crowd control measures activated."
+      }
+    ]
+  },
+  {
+    "event_name": "find",
+    "people_count": 17,
+    "timestamp": "2026-09-30 15:04:16",
+    "risk_level": "High",
+    "notifications_sent": [
+      {
+        "type": "SMS",
+        "recipient": "Event Security Team",
+        "message": "\u26a0 HIGH ALERT: Crowd density of 17 people detected at find. Immediate action required. Time: 2026-09-30 15:04:16"
+      },
+      {
+        "type": "Email",
+        "recipient": "security@eventmanagement.com",
+        "message": "High crowd density alert triggered at find. Current count: 17 people. Please dispatch additional security personnel."
+      },
+      {
+        "type": "SMS",
+        "recipient": "Local Police Department",
+        "message": "Crowd control assistance requested at find. Density: 17 people. Location monitoring active."
+      },
+      {
+        "type": "Push Notification",
+        "recipient": "Event Management App",
+        "message": "\ud83d\udea8 High crowd density at find. Crowd control measures activated."
+      }
+    ]
+  },
+  {
+    "event_name": "fam",
+    "people_count": 10,
+    "timestamp": "2026-11-05 21:06:22",
+    "risk_level": "High",
+    "notifications_sent": [
+      {
+        "type": "SMS",
+        "recipient": "Event Security Team",
+        "message": "\u26a0 HIGH ALERT: Crowd density of 10 people detected at fam. Immediate action required. Time: 2026-11-05 21:06:22"
+      },
+      {
+        "type": "Email",
+        "recipient": "security@eventmanagement.com",
+        "message": "High crowd density alert triggered at fam. Current count: 10 people. Please dispatch additional security personnel."
+      },
+      {
+        "type": "SMS",
+        "recipient": "Local Police Department",
+        "message": "Crowd control assistance requested at fam. Density: 10 people. Location monitoring active."
+      },
+      {
+        "type": "Push Notification",
+        "recipient": "Event Management App",
+        "message": "\ud83d\udea8 High crowd density at fam. Crowd control measures activated."
+      }
+    ]
+  },
+  {
+    "event_name": "fam",
+    "people_count": 10,
+    "timestamp": "2026-11-05 21:07:16",
+    "risk_level": "High",
+    "notifications_sent": [
+      {
+        "type": "SMS",
+        "recipient": "Event Security Team",
+        "message": "\u26a0 HIGH ALERT: Crowd density of 10 people detected at fam. Immediate action required. Time: 2026-11-05 21:07:16"
+      },
+      {
+        "type": "Email",
+        "recipient": "security@eventmanagement.com",
+        "message": "High crowd density alert triggered at fam. Current count: 10 people. Please dispatch additional security personnel."
+      },
+      {
+        "type": "SMS",
+        "recipient": "Local Police Department",
+        "message": "Crowd control assistance requested at fam. Density: 10 people. Location monitoring active."
+      },
+      {
+        "type": "Push Notification",
+        "recipient": "Event Management App",
+        "message": "\ud83d\udea8 High crowd density at fam. Crowd control measures activated."
+      }
+    ]
+  }
+]
